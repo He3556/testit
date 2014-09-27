@@ -64,7 +64,7 @@ a:hover {
 }
 
 header {
-  padding-top: 40px;
+  padding-top: 43px;
   padding-bottom: 40px;
   font-family: 'Helvetica', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
@@ -73,7 +73,7 @@ header {
 
 header h1 {
   letter-spacing: -1px;
-  font-size: 72px;
+  font-size: 68px;
   color: #fff;
   line-height: 1;
   margin-bottom: 0.2em;
@@ -172,7 +172,7 @@ code {
 
 pre {
   padding: 20px;
-  background: #fff;
+  background: #333;
   text-shadow: none;
   overflow: auto;
   border: solid 1px #f2f2f2;
