@@ -50,7 +50,7 @@ table {
 body {
   font-size: 15px;
   line-height: 1.5;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  background: #f4f4f4 url(../images/body-bg.jpg) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 400;
   color: #666;
@@ -96,7 +96,7 @@ header h2 {
 }
 
 #content-wrapper {
-  border-top: solid 1px #fff;
+  border-top: solid 1px #eee;
   padding-top: 30px;
 }
 
@@ -383,7 +383,7 @@ footer a:hover {
     width: 340px;
   }
   header h1 {
-    font-size: 60px;
+    font-size: 55px;
   }
   header h2 {
     font-size: 30px;
