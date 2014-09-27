@@ -96,7 +96,7 @@ header h2 {
 }
 
 #content-wrapper {
-  border-top: solid 1px #eee;
+  border-top: solid 1px #ddd;
   padding-top: 30px;
 }
 
@@ -159,7 +159,7 @@ aside a.button {
 
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #222;
+  color: #aaa;
   margin-bottom: 30px;
   font-size: 13px;
 }
@@ -224,7 +224,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 2.8em;
   letter-spacing: -1px;
   color: #474747;
@@ -238,7 +238,7 @@ form {
 }
 
 #main-content h2 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -252,7 +252,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
@@ -452,7 +452,7 @@ footer a:hover {
   aside#sidebar {
     background-image: none;
     margin-top: 20px;
-    border-top: solid 1px #ddd;
+    border-top: solid 1px #cdcdcd;
     padding: 20px 0;
     min-height: 0;
   }
